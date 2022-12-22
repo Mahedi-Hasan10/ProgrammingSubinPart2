@@ -1,0 +1,7 @@
+echo "# ProgrammingSubinPart2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M Master-branch
+git remote add origin https://github.com/Mahedi-Hasan10/ProgrammingSubinPart2.git
+git push -u origin Master-branch
